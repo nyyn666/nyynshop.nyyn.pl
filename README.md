@@ -1,2 +1,2 @@
 # nyynshop.nyyn.pl
- My shop website.
+ My shop.

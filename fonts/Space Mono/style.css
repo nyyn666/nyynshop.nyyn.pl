@@ -1,0 +1,28 @@
+@font-face {
+   font-family: 'Space Mono';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///D:/Projects/hexhost/fonts/Space Mono/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Space Mono';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///D:/Projects/hexhost/fonts/Space Mono/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Space Mono';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///D:/Projects/hexhost/fonts/Space Mono/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Space Mono';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///D:/Projects/hexhost/fonts/Space Mono/700italic.ttf') format('truetype');
+}
